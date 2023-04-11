@@ -24,7 +24,7 @@
 Для запуска приложения необходим установленный на компьютере Visual Studio
 
 ### Englsih:
-#Educational trainer for three sorting algorithms
+# Educational trainer for three sorting algorithms
 This repository contains the code for an "Educational Trainer" program designed for high school students in grades 10-11.
 
 ## Application Functionality
