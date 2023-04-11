@@ -23,7 +23,7 @@
 ## Требования к запуску приложения
 Для запуска приложения необходим установленный на компьютере Visual Studio
 
-Englsih:
+### Englsih:
 #Educational trainer for three sorting algorithms
 This repository contains the code for an "Educational Trainer" program designed for high school students in grades 10-11.
 
@@ -48,7 +48,7 @@ The program design should be well thought out and balanced. The program should u
 ## Requirements for Running the Application
 To run the application, Visual Studio must be installed on the computer.
 
-Deutsch:
+### Deutsch:
 # Trainingsprogramm für drei Sortieralgorithmen
 Dieses Repository enthält den Code für das Programm "Trainingsprogramm", das für Schülerinnen und Schüler der 10. und 11. Klassen entwickelt wurde.
 
